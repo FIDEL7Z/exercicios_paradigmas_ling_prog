@@ -13,6 +13,27 @@ Ricardo Roberto de Lima
 - Java
 - GoLang
 
+## Instruções para Execução
+
+### Python
+
+Para rodar os exercícios em Python, utilize o seguinte comando:
+
+python3 nome_do_exercicio.py
+
+### Java
+
+Para compilar e rodar os exercícios em Java, utilize os comandos abaixo:
+
+javac NomeDoExercicio.java
+
+java NomeDoExercicio
+
+### GoLang
+
+Para rodar os exercícios em GoLang, utilize o comando:
+
+go run nome_do_exercicio.go
 
 ## Estrutura do Repositório
 Abaixo está a estrutura do repositório, organizada por linguagem de programação e pelas 15 questões abordadas nas aulas:
